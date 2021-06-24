@@ -171,7 +171,7 @@ Dismissal can be achieved with `data` attributes on a button **within the alert*
 <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
 ```
 
-or on a button **outside the alert** as demonstrated above:
+or on a button **outside the alert** using the `data-bs-target` as demonstrated above:
 
 ```html
 <button type="button" class="btn-close" data-bs-dismiss="alert" data-bs-target="#my-alert" aria-label="Close"></button>
