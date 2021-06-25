@@ -41,7 +41,7 @@ Our default branch is for development of our Bootstrap 5 release. Head to the [`
 - [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
 
-## HYH
+
 ## Quick start
 
 Several quick start options are available:
